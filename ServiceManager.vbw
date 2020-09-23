@@ -1,0 +1,6 @@
+frmMain = 3, 79, 728, 768, C, 0, 0, 0, 0, C
+modServiceCode = 3, 77, 727, 767, 
+CServices = 2, 83, 727, 764, 
+frmSCMsgBox = 2, 77, 730, 765, , 0, 0, 0, 0, C
+modGeneral = 2, 78, 727, 765, C
+frmStartup = 1, 79, 728, 764, , 0, 0, 0, 0, C
